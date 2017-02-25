@@ -13,3 +13,4 @@ Clojure has many different ways to create functions.
 
 ;; Solution
 
+8
